@@ -1,0 +1,6 @@
+@charset "utf-8";
+.latest-list {position:relative;padding:15px;background-color:#fff}
+.latest-list ul li {margin-bottom:12px}
+.latest-list ul li a {color:#555}
+.latest-list ul li a:hover {color:#1b1b1b}
+.latest-list ul li:last-child {margin-bottom:0}

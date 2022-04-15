@@ -1,0 +1,7 @@
+@charset "utf-8";
+.latest-gallery-wrap {position:relative;padding:15px;background-color:#fff}
+.latest-gallery {margin-left:-10px;margin-right:-10px}
+.latest-gallery .item {float:left;width:50%;padding-left:10px;padding-right:10px}
+.latest-gallery-image a .img-box {max-height:160px;overflow:hidden}
+.latest-gallery-content h5 a {font-size:16px}
+.latest-gallery-content p {margin-bottom:0}
